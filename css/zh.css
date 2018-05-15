@@ -1,0 +1,14 @@
+/* line 1, /Volumes/Macintosh HD/Applications/XAMPP/xamppfiles/htdocs/mangochili/css/zh.scss */
+.about-content p, .article-concept-content p, .suggest-food-child p, .investor-area p {
+  text-align: left !important;
+}
+
+/* line 4, /Volumes/Macintosh HD/Applications/XAMPP/xamppfiles/htdocs/mangochili/css/zh.scss */
+.about-content .article-hr, .investor-area h2 {
+  text-align: center;
+}
+
+/* line 8, /Volumes/Macintosh HD/Applications/XAMPP/xamppfiles/htdocs/mangochili/css/zh.scss */
+.bio-article-list .bio-article-row p {
+  text-align: left !important;
+}
